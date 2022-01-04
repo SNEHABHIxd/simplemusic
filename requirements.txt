@@ -4,8 +4,8 @@ ffmpeg-python
 py-tgcalls==0.8.1rc1
 git+https://github.com/pyrogram/pyrogram@master
 youtube-search-python==1.4.9
-git+https://github.com/eVEXERA/yt-dl@master
-youtube-dl==2021.12.17
+git+https://github.com/eVEXERA/ytdl@master
+youtube-dl=
 youtube-search
 python-dotenv
 dnspython
